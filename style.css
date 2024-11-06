@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    background-color: aqua;
+    color: navy;
+    font-family: ui-sans-serif,system-ui,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+}
+
+body {
+    background-color: darkgrey;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+h2 {
+    text-align: right;
+    text-decoration: underline;
+    background-color: chartreuse;
+    color: green;
+    text-transform: capitalize;
+}
+
+ol {
+    color: aliceblue;
+    text-decoration: line-through;
+}
